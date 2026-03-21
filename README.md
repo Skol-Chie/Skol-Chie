@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Comfort Chidimma (Skol)
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** from Lagos, Nigeria, with a love for building beautiful and interactive web experiences.
+Welcome to my GitHub profile! I'm a passionate **Frontend Developer** from Abuja, Nigeria, with a love for building beautiful and interactive web experiences.
 
 ---
 
