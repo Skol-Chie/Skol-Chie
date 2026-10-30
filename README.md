@@ -1,54 +1,90 @@
-# 👋 Hi, I'm Emmanuel Comfort Chidimma (Skol)
+# Hey, I'm Chidimma! 👋🏽
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** from Abuja, Nigeria, with a love for building beautiful and interactive web experiences.
+### Software Developer | IT Student | Creative Problem Solver
 
----
+Building with purpose. Learning with intention.
 
-## 🚀 About Me
+I'm a Certified Software Developer from **TS Academy** and an Information Technology student at **Anchor University, Lagos, Nigeria**.
 
-- 🎓 Student at Anchor University Lagos, studying Information Technology
-- 💡 Creative problem solver and design enthusiast
-- 🌱 Always learning new web technologies and frameworks
-- 🛠️ Skilled in HTML5, CSS3, JavaScript, React.js, Next.js, and more
+I enjoy transforming ideas into functional digital experiences, exploring creative approaches to problem-solving, and building technology that makes a difference.
 
----
+I'm particularly interested in frontend development, UI/UX, and creating intuitive, responsive web applications.
 
-## 💼 What I Do
-
-- ✨ Build modern, responsive websites and web apps
-- 🎨 Focus on UI/UX and smooth user experiences
-- 🧩 Love collaborating on open source and creative projects
+I believe great software is not just about making things work; it's about making them work meaningfully for people.
 
 ---
 
-## 🛠️ Tech Stack
+### 👩🏽‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+- 🎓 Studying Information Technology at Anchor University.
+- 💻 Certified Software Developer — TS Academy.
+- 🎨 Interested in frontend development and UI/UX.
+- 🚀 Building projects that combine creativity and functionality.
+- 🤝 Enjoy collaborating, sharing ideas, and solving problems.
+- 🌱 Always learning, experimenting, and improving.
+- 💡 Interested in meaningful technology and real-world solutions.
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Technologies & Tools
 
-- 📧 Email: skolemmie@gmail.com
-- 🌍 Lagos, Nigeria
-- [GitHub](https://github.com/Skol-Chie)
-- [LinkedIn](#)
-- [Twitter](#)
-- [Instagram](#)
+**Languages & Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Styling & Design**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
->  Emmanuel Comfort (Skol)
+### 🚀 Featured Projects
 
-<!---
-Skol-Chie/Skol-Chie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Project | Description |
+|---|---|
+| **P-Port** | My personal developer portfolio, built with React and Tailwind CSS. |
+| **Planets Explorer** | A collaborative React capstone project developed with TS Academy, where I served as team lead. |
+| **Remote Doctor** | A collaborative digital healthcare project focused on connecting patients and doctors. |
+
+Explore my repositories for more projects and experiments.
+
+---
+
+### 📊 My GitHub Journey
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skol-Chie&show_icons=true&theme=transparent&hide_border=true&title_color=E87524&icon_color=E87524&text_color=9CA3AF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skol-Chie&layout=compact&theme=transparent&hide_border=true&title_color=E87524&text_color=9CA3AF)
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to meaningful conversations, collaborations, learning opportunities, and exciting projects.
+
+- **GitHub:** [@Skol-Chie](https://github.com/Skol-Chie)
+- **LinkedIn:** [www.linkedin.com/in/comfort-emmanuel-03159032b]
+- **Portfolio:** [Add your live portfolio URL]
+- **Email:** [skolemmie@gmail.com]
+
+---
+
+<p align="center">
+  <i>"Great things are built through curiosity, consistency, and the courage to start."</i>
+</p>
+
+<p align="center">
+  Thanks for stopping by! 💜
+</p>
