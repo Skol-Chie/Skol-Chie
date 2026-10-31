@@ -22,6 +22,7 @@ I believe great software is not just about making things work; it's about making
 
 ### 👩🏽‍💻 About Me
 
+- 🤞 I love to say Skol and be called Skol! Its Cheers / Goodhealth.
 - 🎓 Studying Information Technology at Anchor University.
 - 💻 Certified Software Developer — TS Academy.
 - 🎨 Interested in frontend development and UI/UX.
@@ -82,7 +83,7 @@ I'm always open to meaningful conversations, collaborations, learning opportunit
 
 - **GitHub:** [@Skol-Chie](https://github.com/Skol-Chie)
 - **LinkedIn:** [www.linkedin.com/in/comfort-emmanuel-03159032b]
-- **Portfolio:** [Add your live portfolio URL]
+- **Portfolio:** [(https://chidimma-three.vercel.app/)]
 - **Email:** [skolemmie@gmail.com]
 
 ---
@@ -92,5 +93,6 @@ I'm always open to meaningful conversations, collaborations, learning opportunit
 </p>
 
 <p align="center">
-  Thanks for stopping by! 💜
+  Thanks for stopping by! 
+  **SKOL!!!!**💜
 </p>
