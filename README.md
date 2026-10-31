@@ -94,5 +94,8 @@ I'm always open to meaningful conversations, collaborations, learning opportunit
 
 <p align="center">
   Thanks for stopping by! 
-  **SKOL!!!!**💜
+</p>
+
+<p align="center">
+ SKOL!!!!💜
 </p>
